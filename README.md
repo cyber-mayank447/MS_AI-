@@ -27,32 +27,20 @@ python ms_ai.py
 
 Aapko is project mein files aur folders kuch is tarah milenge:
 
+
 ms_Ai new/
-
 │
-
 ├── static/
-
 │   ├── css/
-
-│   │   └── style.css
-
+│  │   └── style.css
 │   ├── js/
-
 │   │   └── script.js
-
 │   └── your_image.jpg
-
 │
-
 ├── templates/
-
 │   └── index.html
-
 │
-
 ├── ms_ai.py
-
 └── requirements.txt
 
 
