@@ -22,25 +22,39 @@ pip install -r requirements.txt
 
 python ms_ai.py
 
----
-✨ **Thank you for visiting!** If you like this project, don't forget to leave a ⭐!
-
 
 ## 📁 Project Folder Structure
 
 Aapko is project mein files aur folders kuch is tarah milenge:
 
 ms_Ai new/
+
 │
+
 ├── static/
+
 │   ├── css/
+
 │   │   └── style.css
+
 │   ├── js/
+
 │   │   └── script.js
+
 │   └── your_image.jpg
+
 │
+
 ├── templates/
+
 │   └── index.html
+
 │
+
 ├── ms_ai.py
+
 └── requirements.txt
+
+
+
+✨ **Thank you for visiting!** If you like this project, don't forget to leave a ⭐!
