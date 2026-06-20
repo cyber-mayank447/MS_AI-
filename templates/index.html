@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MS AI ASSISTANT</title>
+    <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div id="circle" onclick="startMS()">
+        <img src="{{ url_for('static', filename='your_image.jpg') }}" id="assistant-logo">
+        <h2>MS AI</h2>
+        <p id="text">Tap to Speak</p>
+        <small id="status">Ready</small>
+    </div>
+    <button id="clear-btn" onclick="clearMSMemory()">Clear Memory</button>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
