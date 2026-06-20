@@ -15,6 +15,9 @@ Follow these steps to run **ms_AI** on your local machine:
 
 ### 1. Clone the Repository
 git clone [https://github.com/cyber-mayank447/ms_AI.git](https://github.com/cyber-mayank447/ms_AI.git)
+
 cd ms_AI
+
 pip install requirements
+
 python ms_ai.py
